@@ -1,0 +1,77 @@
+.barra{
+	background-color: #2f2f4d;
+	
+}
+.iconos {
+	color: #e8d18e;
+	
+}
+.derecha{
+	text-align: right;
+}
+.izquierda{
+	text-align: left
+}
+.centrado{
+	text-align: center;
+	padding: 30px 0px;
+}
+.foto{
+	padding-left: 180px;
+}
+.intro{
+	padding: 40px 40px;
+	
+}
+.cuerpocentrado{
+	padding: 80px 0px;
+}
+.title1{
+	font-size: 40px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+.title2{
+	font-size: 25px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+.parrafo{
+	font-size: 18px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif" ;
+}
+.azul{
+	color: #2f2f4d;
+}
+.textocentro{
+	padding-right: 80px;
+}
+.fondoAz{
+	background-color:#2f2f4d; 
+}
+.textoiz{
+	padding-left: 80px;
+}
+.trabajos{
+	padding-top: 50px;
+	
+}
+.proyectos{
+	text-align: center;
+}
+.fondoama{
+	background-color: #e8d18e;
+}
+.x{
+	padding-top: 100px
+}
+.centrado{
+    text-align: center;
+}
+.patrocinadores{
+padding: 50px 0px;
+	}
+.espacio_arriba_abajo{
+    padding: 30px 0px;
+}
+.fondoblanco{
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
